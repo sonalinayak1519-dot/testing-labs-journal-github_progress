@@ -10,7 +10,6 @@ Open the computer case and observe the internal components.
 Describe what you see.
 Insert image:
 ![PC](Edited_Photo_for_Article.width-1000.format-webp.webp)
-images/system/computer-opened.jpg
 With the side panel removed, the internal components of the PC are visible. The motherboard is mounted vertically on the left side of the case, serving as the main circuit board that connects all components together.
 Attached to the motherboard is the Corsair LINK CPU Cooler, which keeps the processor from overheating. Two sticks of memory (RAM) are inserted vertically into the motherboard slots.
 A storage drive is mounted on the motherboard, used for storing the operating system and files. The graphics card (GeForce RTX) is slotted horizontally into the motherboard and handles all video output.
